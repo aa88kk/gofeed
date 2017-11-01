@@ -1,0 +1,62 @@
+{
+  "Title": "",
+  "Version": "2.0",
+  "Outlines": [
+    {
+      "Title": "",
+      "XmlUrl": "",
+      "HtmlUrl": "",
+      "Type": "",
+      "Text": "Far West",
+      "Description": "",
+      "Outlines": [
+            {
+              "Title": "",
+              "XmlUrl": "",
+              "HtmlUrl": "",
+              "Type": "",
+              "Text": "Hawaii",
+              "Description": "",
+              "Outlines":null 
+            },
+            {
+              "Title": "",
+              "XmlUrl": "",
+              "HtmlUrl": "",
+              "Type": "",
+              "Text": "CA",
+              "Description": "",
+              "Outlines": null
+            },
+            {
+              "Title": "",
+              "XmlUrl": "",
+              "HtmlUrl": "",
+              "Type": "",
+              "Text": "Nevada",
+              "Description": "",
+              "Outlines": [
+                {
+                  "Title": "",
+                  "XmlUrl": "",
+                  "HtmlUrl": "",
+                  "Type": "",
+                  "Text": "Gerlach",
+                  "Description": "",
+                  "Outlines": null
+                }
+              ]
+            }
+      ]
+    },
+    {
+      "Title": "",
+      "XmlUrl": "",
+      "HtmlUrl": "",
+      "Type": "",
+      "Text": "Great Plains",
+      "Description": "",
+      "Outlines": null
+    }
+  ]
+}
