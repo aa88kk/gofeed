@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>states.opml</title>
+    </head>
+	<body>
+        <outline text="Far West">
+            <outline text="Hawaii"/>
+            <outline text="CA"/>
+            <outline text="Nevada">
+                <outline text="Gerlach" created="Tue, 12 Jul 2005 23:56:47 GMT"/>
+            </outline>
+        </outline>
+        <outline text="Great Plains"/>
+    </body>
+</opml>
