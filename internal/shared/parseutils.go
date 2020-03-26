@@ -79,7 +79,7 @@ func StripCDATA(str string) string {
 		curr = curr + end + len(CDATA_END)
 	}
 
-	return buf.String()
+	return strings.TrimSpace(buf.String())
 }
 
 // DecodeEntities decodes escaped XML entities
